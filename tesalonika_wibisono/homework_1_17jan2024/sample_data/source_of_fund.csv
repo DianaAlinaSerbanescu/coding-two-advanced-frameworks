@@ -1,0 +1,802 @@
+year,academic_type,source_type,source_of_fund,students
+1999/00,Undergraduate,International,Personal and Family,201578
+1999/00,Undergraduate,International,Foreign Government or University,9742
+1999/00,Undergraduate,International,Foreign Private Sponsor,6245
+1999/00,Undergraduate,International,International Organization,749
+1999/00,Undergraduate,U.S.,Current Employment,749
+1999/00,Undergraduate,U.S.,U.S. College or University,20482
+1999/00,Undergraduate,U.S.,U.S. Government,1499
+1999/00,Undergraduate,U.S.,U.S. Private Sponsor,7993
+1999/00,Undergraduate,Other,Other Sources,749
+1999/00,Graduate,International,Personal and Family,106380
+1999/00,Graduate,International,Foreign Government or University,12171
+1999/00,Graduate,International,Foreign Private Sponsor,6311
+1999/00,Graduate,International,International Organization,1578
+1999/00,Graduate,U.S.,Current Employment,3832
+1999/00,Graduate,U.S.,U.S. College or University,84969
+1999/00,Graduate,U.S.,U.S. Government,1803
+1999/00,Graduate,U.S.,U.S. Private Sponsor,5409
+1999/00,Graduate,Other,Other Sources,2930
+1999/00,Other ,International,Personal and Family,25789
+1999/00,Other ,International,Foreign Government or University,1543
+1999/00,Other ,International,Foreign Private Sponsor,1226
+1999/00,Other ,International,International Organization,514
+1999/00,Other ,U.S.,Current Employment,6922
+1999/00,Other ,U.S.,U.S. College or University,2294
+1999/00,Other ,U.S.,U.S. Government,119
+1999/00,Other ,U.S.,U.S. Private Sponsor,356
+1999/00,Other ,Other,Other Sources,791
+2000/01,Undergraduate,International,Personal and Family,210765
+2000/01,Undergraduate,International,Foreign Government or University,9391
+2000/01,Undergraduate,International,Foreign Private Sponsor,7043
+2000/01,Undergraduate,International,International Organization,783
+2000/01,Undergraduate,U.S.,Current Employment,1043
+2000/01,Undergraduate,U.S.,U.S. College or University,21911
+2000/01,Undergraduate,U.S.,U.S. Government,1043
+2000/01,Undergraduate,U.S.,U.S. Private Sponsor,7304
+2000/01,Undergraduate,Other,Other Sources,1565
+2000/01,Graduate,International,Personal and Family,114866
+2000/01,Graduate,International,Foreign Government or University,10998
+2000/01,Graduate,International,Foreign Private Sponsor,5132
+2000/01,Graduate,International,International Organization,1222
+2000/01,Graduate,U.S.,Current Employment,3422
+2000/01,Graduate,U.S.,U.S. College or University,97515
+2000/01,Graduate,U.S.,U.S. Government,2200
+2000/01,Graduate,U.S.,U.S. Private Sponsor,5621
+2000/01,Graduate,Other,Other Sources,3422
+2000/01,Other ,International,Personal and Family,27747
+2000/01,Other ,International,Foreign Government or University,1662
+2000/01,Other ,International,Foreign Private Sponsor,895
+2000/01,Other ,International,International Organization,341
+2000/01,Other ,U.S.,Current Employment,8055
+2000/01,Other ,U.S.,U.S. College or University,2600
+2000/01,Other ,U.S.,U.S. Government,341
+2000/01,Other ,U.S.,U.S. Private Sponsor,426
+2000/01,Other ,Other,Other Sources,554
+2001/02,Undergraduate,International,Personal and Family,216903
+2001/02,Undergraduate,International,Foreign Government or University,9431
+2001/02,Undergraduate,International,Foreign Private Sponsor,5928
+2001/02,Undergraduate,International,International Organization,539
+2001/02,Undergraduate,U.S.,Current Employment,539
+2001/02,Undergraduate,U.S.,U.S. College or University,24789
+2001/02,Undergraduate,U.S.,U.S. Government,1347
+2001/02,Undergraduate,U.S.,U.S. Private Sponsor,9431
+2001/02,Undergraduate,Other,Other Sources,539
+2001/02,Graduate,International,Personal and Family,139388
+2001/02,Graduate,International,Foreign Government or University,10576
+2001/02,Graduate,International,Foreign Private Sponsor,5152
+2001/02,Graduate,International,International Organization,1356
+2001/02,Graduate,U.S.,Current Employment,4068
+2001/02,Graduate,U.S.,U.S. College or University,102778
+2001/02,Graduate,U.S.,U.S. Government,2441
+2001/02,Graduate,U.S.,U.S. Private Sponsor,4881
+2001/02,Graduate,Other,Other Sources,542
+2001/02,Other ,International,Personal and Family,29912
+2001/02,Other ,International,Foreign Government or University,1525
+2001/02,Other ,International,Foreign Private Sponsor,763
+2001/02,Other ,International,International Organization,212
+2001/02,Other ,U.S.,Current Employment,5804
+2001/02,Other ,U.S.,U.S. College or University,2966
+2001/02,Other ,U.S.,U.S. Government,212
+2001/02,Other ,U.S.,U.S. Private Sponsor,805
+2001/02,Other ,Other,Other Sources,169
+2002/03,Undergraduate,International,Personal and Family,210787
+2002/03,Undergraduate,International,Foreign Government or University,6722
+2002/03,Undergraduate,International,Foreign Private Sponsor,12637
+2002/03,Undergraduate,International,International Organization,269
+2002/03,Undergraduate,U.S.,Current Employment,807
+2002/03,Undergraduate,U.S.,U.S. College or University,25004
+2002/03,Undergraduate,U.S.,U.S. Government,807
+2002/03,Undergraduate,U.S.,U.S. Private Sponsor,8873
+2002/03,Undergraduate,Other,Other Sources,2958
+2002/03,Graduate,International,Personal and Family,142840
+2002/03,Graduate,International,Foreign Government or University,7858
+2002/03,Graduate,International,Foreign Private Sponsor,5332
+2002/03,Graduate,International,International Organization,1123
+2002/03,Graduate,U.S.,Current Employment,3368
+2002/03,Graduate,U.S.,U.S. College or University,107481
+2002/03,Graduate,U.S.,U.S. Government,2245
+2002/03,Graduate,U.S.,U.S. Private Sponsor,4209
+2002/03,Graduate,Other,Other Sources,6174
+2002/03,Other ,International,Personal and Family,23461
+2002/03,Other ,International,Foreign Government or University,1731
+2002/03,Other ,International,Foreign Private Sponsor,626
+2002/03,Other ,International,International Organization,147
+2002/03,Other ,U.S.,Current Employment,6040
+2002/03,Other ,U.S.,U.S. College or University,2652
+2002/03,Other ,U.S.,U.S. Government,184
+2002/03,Other ,U.S.,U.S. Private Sponsor,773
+2002/03,Other ,Other,Other Sources,1215
+2003/04,Undergraduate,International,Personal and Family,209036
+2003/04,Undergraduate,International,Foreign Government or University,5117
+2003/04,Undergraduate,International,Foreign Private Sponsor,6652
+2003/04,Undergraduate,International,International Organization,512
+2003/04,Undergraduate,U.S.,Current Employment,768
+2003/04,Undergraduate,U.S.,U.S. College or University,25842
+2003/04,Undergraduate,U.S.,U.S. Government,768
+2003/04,Undergraduate,U.S.,U.S. Private Sponsor,7164
+2003/04,Undergraduate,Other,Other Sources,0
+2003/04,Graduate,International,Personal and Family,144282
+2003/04,Graduate,International,Foreign Government or University,6140
+2003/04,Graduate,International,Foreign Private Sponsor,4744
+2003/04,Graduate,International,International Organization,3907
+2003/04,Graduate,U.S.,Current Employment,1116
+2003/04,Graduate,U.S.,U.S. College or University,112747
+2003/04,Graduate,U.S.,U.S. Government,1954
+2003/04,Graduate,U.S.,U.S. Private Sponsor,4186
+2003/04,Graduate,Other,Other Sources,0
+2003/04,Other ,International,Personal and Family,24478
+2003/04,Other ,International,Foreign Government or University,1438
+2003/04,Other ,International,Foreign Private Sponsor,456
+2003/04,Other ,International,International Organization,281
+2003/04,Other ,U.S.,Current Employment,4874
+2003/04,Other ,U.S.,U.S. College or University,2735
+2003/04,Other ,U.S.,U.S. Government,105
+2003/04,Other ,U.S.,U.S. Private Sponsor,701
+2003/04,Other ,Other,Other Sources,0
+2004/05,Undergraduate,International,Personal and Family,200275
+2004/05,Undergraduate,International,Foreign Government or University,5934
+2004/05,Undergraduate,International,Foreign Private Sponsor,3462
+2004/05,Undergraduate,International,International Organization,495
+2004/05,Undergraduate,U.S.,Current Employment,742
+2004/05,Undergraduate,U.S.,U.S. College or University,23242
+2004/05,Undergraduate,U.S.,U.S. Government,1236
+2004/05,Undergraduate,U.S.,U.S. Private Sponsor,11374
+2004/05,Undergraduate,Other,Other Sources,495
+2004/05,Graduate,International,Personal and Family,118770
+2004/05,Graduate,International,Foreign Government or University,7828
+2004/05,Graduate,International,Foreign Private Sponsor,2969
+2004/05,Graduate,International,International Organization,810
+2004/05,Graduate,U.S.,Current Employment,3509
+2004/05,Graduate,U.S.,U.S. College or University,117691
+2004/05,Graduate,U.S.,U.S. Government,1890
+2004/05,Graduate,U.S.,U.S. Private Sponsor,14846
+2004/05,Graduate,Other,Other Sources,1620
+2004/05,Other ,International,Personal and Family,26175
+2004/05,Other ,International,Foreign Government or University,1244
+2004/05,Other ,International,Foreign Private Sponsor,287
+2004/05,Other ,International,International Organization,144
+2004/05,Other ,U.S.,Current Employment,14164
+2004/05,Other ,U.S.,U.S. College or University,4019
+2004/05,Other ,U.S.,U.S. Government,144
+2004/05,Other ,U.S.,U.S. Private Sponsor,1483
+2004/05,Other ,Other,Other Sources,191
+2005/06,Undergraduate,International,Personal and Family,194723
+2005/06,Undergraduate,International,Foreign Government or University,5263
+2005/06,Undergraduate,International,Foreign Private Sponsor,4067
+2005/06,Undergraduate,International,International Organization,478
+2005/06,Undergraduate,U.S.,Current Employment,239
+2005/06,Undergraduate,U.S.,U.S. College or University,27271
+2005/06,Undergraduate,U.S.,U.S. Government,718
+2005/06,Undergraduate,U.S.,U.S. Private Sponsor,5024
+2005/06,Undergraduate,Other,Other Sources,1435
+2005/06,Graduate,International,Personal and Family,122224
+2005/06,Graduate,International,Foreign Government or University,7174
+2005/06,Graduate,International,Foreign Private Sponsor,3986
+2005/06,Graduate,International,International Organization,797
+2005/06,Graduate,U.S.,Current Employment,2391
+2005/06,Graduate,U.S.,U.S. College or University,123552
+2005/06,Graduate,U.S.,U.S. Government,1594
+2005/06,Graduate,U.S.,U.S. Private Sponsor,2657
+2005/06,Graduate,Other,Other Sources,1329
+2005/06,Other ,International,Personal and Family,33511
+2005/06,Other ,International,Foreign Government or University,1915
+2005/06,Other ,International,Foreign Private Sponsor,778
+2005/06,Other ,International,International Organization,180
+2005/06,Other ,U.S.,Current Employment,15919
+2005/06,Other ,U.S.,U.S. College or University,6104
+2005/06,Other ,U.S.,U.S. Government,180
+2005/06,Other ,U.S.,U.S. Private Sponsor,778
+2005/06,Other ,Other,Other Sources,479
+2006/07,Undergraduate,International,Personal and Family,194250
+2006/07,Undergraduate,International,Foreign Government or University,6903
+2006/07,Undergraduate,International,Foreign Private Sponsor,2857
+2006/07,Undergraduate,International,International Organization,476
+2006/07,Undergraduate,U.S.,Current Employment,476
+2006/07,Undergraduate,U.S.,U.S. College or University,25233
+2006/07,Undergraduate,U.S.,U.S. Government,1190
+2006/07,Undergraduate,U.S.,U.S. Private Sponsor,4523
+2006/07,Undergraduate,Other,Other Sources,2142
+2006/07,Graduate,International,Personal and Family,120516
+2006/07,Graduate,International,Foreign Government or University,6871
+2006/07,Graduate,International,Foreign Private Sponsor,2643
+2006/07,Graduate,International,International Organization,1057
+2006/07,Graduate,U.S.,Current Employment,3436
+2006/07,Graduate,U.S.,U.S. College or University,123158
+2006/07,Graduate,U.S.,U.S. Government,2114
+2006/07,Graduate,U.S.,U.S. Private Sponsor,2379
+2006/07,Graduate,Other,Other Sources,2114
+2006/07,Non-Degree,International,Personal and Family,26588
+2006/07,Non-Degree,International,Foreign Government or University,4834
+2006/07,Non-Degree,International,Foreign Private Sponsor,819
+2006/07,Non-Degree,International,International Organization,156
+2006/07,Non-Degree,U.S.,Current Employment,468
+2006/07,Non-Degree,U.S.,U.S. College or University,4990
+2006/07,Non-Degree,U.S.,U.S. Government,234
+2006/07,Non-Degree,U.S.,U.S. Private Sponsor,858
+2006/07,Non-Degree,Other,Other Sources,39
+2006/07,OPT,International,Personal and Family,18663
+2006/07,OPT,International,Foreign Government or University,250
+2006/07,OPT,International,Foreign Private Sponsor,250
+2006/07,OPT,International,International Organization,42
+2006/07,OPT,U.S.,Current Employment,18080
+2006/07,OPT,U.S.,U.S. College or University,3624
+2006/07,OPT,U.S.,U.S. Government,42
+2006/07,OPT,U.S.,U.S. Private Sponsor,167
+2006/07,OPT,Other,Other Sources,542
+2007/08,Undergraduate,International,Personal and Family,200773
+2007/08,Undergraduate,International,Foreign Government or University,8274
+2007/08,Undergraduate,International,Foreign Private Sponsor,2920
+2007/08,Undergraduate,International,International Organization,243
+2007/08,Undergraduate,U.S.,Current Employment,243
+2007/08,Undergraduate,U.S.,U.S. College or University,25066
+2007/08,Undergraduate,U.S.,U.S. Government,973
+2007/08,Undergraduate,U.S.,U.S. Private Sponsor,3164
+2007/08,Undergraduate,Other,Other Sources,1704
+2007/08,Graduate,International,Personal and Family,127901
+2007/08,Graduate,International,Foreign Government or University,8305
+2007/08,Graduate,International,Foreign Private Sponsor,2768
+2007/08,Graduate,International,International Organization,831
+2007/08,Graduate,U.S.,Current Employment,2215
+2007/08,Graduate,U.S.,U.S. College or University,127901
+2007/08,Graduate,U.S.,U.S. Government,1938
+2007/08,Graduate,U.S.,U.S. Private Sponsor,1938
+2007/08,Graduate,Other,Other Sources,3045
+2007/08,Non-Degree,International,Personal and Family,36158
+2007/08,Non-Degree,International,Foreign Government or University,4262
+2007/08,Non-Degree,International,Foreign Private Sponsor,562
+2007/08,Non-Degree,International,International Organization,187
+2007/08,Non-Degree,U.S.,Current Employment,656
+2007/08,Non-Degree,U.S.,U.S. College or University,3419
+2007/08,Non-Degree,U.S.,U.S. Government,375
+2007/08,Non-Degree,U.S.,U.S. Private Sponsor,422
+2007/08,Non-Degree,Other,Other Sources,796
+2007/08,OPT,International,Personal and Family,24240
+2007/08,OPT,International,Foreign Government or University,284
+2007/08,OPT,International,Foreign Private Sponsor,170
+2007/08,OPT,International,International Organization,0
+2007/08,OPT,U.S.,Current Employment,26339
+2007/08,OPT,U.S.,U.S. College or University,4995
+2007/08,OPT,U.S.,U.S. Government,57
+2007/08,OPT,U.S.,U.S. Private Sponsor,227
+2007/08,OPT,Other,Other Sources,454
+2008/09,Undergraduate,International,Personal and Family,221026
+2008/09,Undergraduate,International,Foreign Government or University,10525
+2008/09,Undergraduate,International,Foreign Private Sponsor,5667
+2008/09,Undergraduate,International,International Organization,270
+2008/09,Undergraduate,U.S.,Current Employment,540
+2008/09,Undergraduate,U.S.,U.S. College or University,24559
+2008/09,Undergraduate,U.S.,U.S. Government,810
+2008/09,Undergraduate,U.S.,U.S. Private Sponsor,3778
+2008/09,Undergraduate,Other,Other Sources,2699
+2008/09,Graduate,International,Personal and Family,138265
+2008/09,Graduate,International,Foreign Government or University,8783
+2008/09,Graduate,International,Foreign Private Sponsor,2833
+2008/09,Graduate,International,International Organization,850
+2008/09,Graduate,U.S.,Current Employment,2833
+2008/09,Graduate,U.S.,U.S. College or University,122681
+2008/09,Graduate,U.S.,U.S. Government,2267
+2008/09,Graduate,U.S.,U.S. Private Sponsor,2550
+2008/09,Graduate,Other,Other Sources,2267
+2008/09,Non-Degree,International,Personal and Family,39740
+2008/09,Non-Degree,International,Foreign Government or University,4249
+2008/09,Non-Degree,International,Foreign Private Sponsor,466
+2008/09,Non-Degree,International,International Organization,207
+2008/09,Non-Degree,U.S.,Current Employment,570
+2008/09,Non-Degree,U.S.,U.S. College or University,4870
+2008/09,Non-Degree,U.S.,U.S. Government,933
+2008/09,Non-Degree,U.S.,U.S. Private Sponsor,570
+2008/09,Non-Degree,Other,Other Sources,207
+2008/09,OPT,International,Personal and Family,28039
+2008/09,OPT,International,Foreign Government or University,466
+2008/09,OPT,International,Foreign Private Sponsor,333
+2008/09,OPT,International,International Organization,67
+2008/09,OPT,U.S.,Current Employment,31569
+2008/09,OPT,U.S.,U.S. College or University,5261
+2008/09,OPT,U.S.,U.S. Government,67
+2008/09,OPT,U.S.,U.S. Private Sponsor,266
+2008/09,OPT,Other,Other Sources,533
+2009/10,Undergraduate,International,Personal and Family,217076
+2009/10,Undergraduate,International,Foreign Government or University,13996
+2009/10,Undergraduate,International,Foreign Private Sponsor,4116
+2009/10,Undergraduate,International,International Organization,274
+2009/10,Undergraduate,U.S.,Current Employment,274
+2009/10,Undergraduate,U.S.,U.S. College or University,29913
+2009/10,Undergraduate,U.S.,U.S. Government,1098
+2009/10,Undergraduate,U.S.,U.S. Private Sponsor,4391
+2009/10,Undergraduate,Other,Other Sources,3293
+2009/10,Graduate,International,Personal and Family,141652
+2009/10,Graduate,International,Foreign Government or University,9404
+2009/10,Graduate,International,Foreign Private Sponsor,3821
+2009/10,Graduate,International,International Organization,1176
+2009/10,Graduate,U.S.,Current Employment,2351
+2009/10,Graduate,U.S.,U.S. College or University,128428
+2009/10,Graduate,U.S.,U.S. Government,2939
+2009/10,Graduate,U.S.,U.S. Private Sponsor,1763
+2009/10,Graduate,Other,Other Sources,2351
+2009/10,Non-Degree,International,Personal and Family,36170
+2009/10,Non-Degree,International,Foreign Government or University,7289
+2009/10,Non-Degree,International,Foreign Private Sponsor,986
+2009/10,Non-Degree,International,International Organization,274
+2009/10,Non-Degree,U.S.,Current Employment,1754
+2009/10,Non-Degree,U.S.,U.S. College or University,5754
+2009/10,Non-Degree,U.S.,U.S. Government,658
+2009/10,Non-Degree,U.S.,U.S. Private Sponsor,767
+2009/10,Non-Degree,Other,Other Sources,1151
+2009/10,OPT,International,Personal and Family,27190
+2009/10,OPT,International,Foreign Government or University,203
+2009/10,OPT,International,Foreign Private Sponsor,542
+2009/10,OPT,International,International Organization,68
+2009/10,OPT,U.S.,Current Employment,33563
+2009/10,OPT,U.S.,U.S. College or University,5696
+2009/10,OPT,U.S.,U.S. Government,0
+2009/10,OPT,U.S.,U.S. Private Sponsor,339
+2009/10,OPT,Other,Other Sources,203
+2010/11,Undergraduate,International,Personal and Family,235191
+2010/11,Undergraduate,International,Foreign Government or University,17778
+2010/11,Undergraduate,International,Foreign Private Sponsor,2914
+2010/11,Undergraduate,International,International Organization,291
+2010/11,Undergraduate,U.S.,Current Employment,583
+2010/11,Undergraduate,U.S.,U.S. College or University,28270
+2010/11,Undergraduate,U.S.,U.S. Government,1166
+2010/11,Undergraduate,U.S.,U.S. Private Sponsor,3206
+2010/11,Undergraduate,Other,Other Sources,2040
+2010/11,Graduate,International,Personal and Family,145618
+2010/11,Graduate,International,Foreign Government or University,12160
+2010/11,Graduate,International,Foreign Private Sponsor,3262
+2010/11,Graduate,International,International Organization,890
+2010/11,Graduate,U.S.,Current Employment,2076
+2010/11,Graduate,U.S.,U.S. College or University,126637
+2010/11,Graduate,U.S.,U.S. Government,2373
+2010/11,Graduate,U.S.,U.S. Private Sponsor,1779
+2010/11,Graduate,Other,Other Sources,1779
+2010/11,Non-Degree,International,Personal and Family,39509
+2010/11,Non-Degree,International,Foreign Government or University,10247
+2010/11,Non-Degree,International,Foreign Private Sponsor,829
+2010/11,Non-Degree,International,International Organization,296
+2010/11,Non-Degree,U.S.,Current Employment,178
+2010/11,Non-Degree,U.S.,U.S. College or University,6338
+2010/11,Non-Degree,U.S.,U.S. Government,888
+2010/11,Non-Degree,U.S.,U.S. Private Sponsor,652
+2010/11,Non-Degree,Other,Other Sources,296
+2010/11,OPT,International,Personal and Family,35355
+2010/11,OPT,International,Foreign Government or University,456
+2010/11,OPT,International,Foreign Private Sponsor,456
+2010/11,OPT,International,International Organization,152
+2010/11,OPT,U.S.,Current Employment,31781
+2010/11,OPT,U.S.,U.S. College or University,6767
+2010/11,OPT,U.S.,U.S. Government,0
+2010/11,OPT,U.S.,U.S. Private Sponsor,228
+2010/11,OPT,Other,Other Sources,836
+2011/12,Undergraduate,International,Personal and Family,253661
+2011/12,Undergraduate,International,Foreign Government or University,8971
+2011/12,Undergraduate,International,Foreign Private Sponsor,1856
+2011/12,Undergraduate,International,International Organization,309
+2011/12,Undergraduate,U.S.,Current Employment,309
+2011/12,Undergraduate,U.S.,U.S. College or University,39596
+2011/12,Undergraduate,U.S.,U.S. Government,928
+2011/12,Undergraduate,U.S.,U.S. Private Sponsor,2165
+2011/12,Undergraduate,Other,Other Sources,1547
+2011/12,Graduate,International,Personal and Family,150515
+2011/12,Graduate,International,Foreign Government or University,13219
+2011/12,Graduate,International,Foreign Private Sponsor,3906
+2011/12,Graduate,International,International Organization,901
+2011/12,Graduate,U.S.,Current Employment,1803
+2011/12,Graduate,U.S.,U.S. College or University,125880
+2011/12,Graduate,U.S.,U.S. Government,2103
+2011/12,Graduate,U.S.,U.S. Private Sponsor,901
+2011/12,Graduate,Other,Other Sources,1202
+2011/12,Non-Degree,International,Personal and Family,45844
+2011/12,Non-Degree,International,Foreign Government or University,12104
+2011/12,Non-Degree,International,Foreign Private Sponsor,1322
+2011/12,Non-Degree,International,International Organization,278
+2011/12,Non-Degree,U.S.,Current Employment,348
+2011/12,Non-Degree,U.S.,U.S. College or University,8000
+2011/12,Non-Degree,U.S.,U.S. Government,835
+2011/12,Non-Degree,U.S.,U.S. Private Sponsor,348
+2011/12,Non-Degree,Other,Other Sources,487
+2011/12,OPT,International,Personal and Family,35937
+2011/12,OPT,International,Foreign Government or University,426
+2011/12,OPT,International,Foreign Private Sponsor,426
+2011/12,OPT,International,International Organization,85
+2011/12,OPT,U.S.,Current Employment,41301
+2011/12,OPT,U.S.,U.S. College or University,6557
+2011/12,OPT,U.S.,U.S. Government,0
+2011/12,OPT,U.S.,U.S. Private Sponsor,170
+2011/12,OPT,Other,Other Sources,255
+2012/13,Undergraduate,International,Personal and Family,274035
+2012/13,Undergraduate,International,Foreign Government or University,24479
+2012/13,Undergraduate,International,Foreign Private Sponsor,3060
+2012/13,Undergraduate,International,International Organization,340
+2012/13,Undergraduate,U.S.,Current Employment,340
+2012/13,Undergraduate,U.S.,U.S. College or University,29919
+2012/13,Undergraduate,U.S.,U.S. Government,2380
+2012/13,Undergraduate,U.S.,U.S. Private Sponsor,2720
+2012/13,Undergraduate,Other,Other Sources,2720
+2012/13,Graduate,International,Personal and Family,159958
+2012/13,Graduate,International,Foreign Government or University,16183
+2012/13,Graduate,International,Foreign Private Sponsor,4357
+2012/13,Graduate,International,International Organization,622
+2012/13,Graduate,U.S.,Current Employment,1245
+2012/13,Graduate,U.S.,U.S. College or University,123548
+2012/13,Graduate,U.S.,U.S. Government,2490
+2012/13,Graduate,U.S.,U.S. Private Sponsor,1556
+2012/13,Graduate,Other,Other Sources,1245
+2012/13,Non-Degree,International,Personal and Family,44263
+2012/13,Non-Degree,International,Foreign Government or University,16250
+2012/13,Non-Degree,International,Foreign Private Sponsor,1324
+2012/13,Non-Degree,International,International Organization,294
+2012/13,Non-Degree,U.S.,Current Employment,1912
+2012/13,Non-Degree,U.S.,U.S. College or University,7500
+2012/13,Non-Degree,U.S.,U.S. Government,956
+2012/13,Non-Degree,U.S.,U.S. Private Sponsor,441
+2012/13,Non-Degree,Other,Other Sources,588
+2012/13,OPT,International,Personal and Family,38822
+2012/13,OPT,International,Foreign Government or University,664
+2012/13,OPT,International,Foreign Private Sponsor,475
+2012/13,OPT,International,International Organization,0
+2012/13,OPT,U.S.,Current Employment,45276
+2012/13,OPT,U.S.,U.S. College or University,9207
+2012/13,OPT,U.S.,U.S. Government,95
+2012/13,OPT,U.S.,U.S. Private Sponsor,190
+2012/13,OPT,Other,Other Sources,190
+2013/14,Undergraduate,International,Personal and Family,298433
+2013/14,Undergraduate,International,Foreign Government or University,31882
+2013/14,Undergraduate,International,Foreign Private Sponsor,3707
+2013/14,Undergraduate,International,International Organization,371
+2013/14,Undergraduate,U.S.,Current Employment,371
+2013/14,Undergraduate,U.S.,U.S. College or University,28916
+2013/14,Undergraduate,U.S.,U.S. Government,1112
+2013/14,Undergraduate,U.S.,U.S. Private Sponsor,2966
+2013/14,Undergraduate,Other,Other Sources,2966
+2013/14,Graduate,International,Personal and Family,172844
+2013/14,Graduate,International,Foreign Government or University,17482
+2013/14,Graduate,International,Foreign Private Sponsor,4288
+2013/14,Graduate,International,International Organization,660
+2013/14,Graduate,U.S.,Current Employment,2309
+2013/14,Graduate,U.S.,U.S. College or University,127653
+2013/14,Graduate,U.S.,U.S. Government,2309
+2013/14,Graduate,U.S.,U.S. Private Sponsor,990
+2013/14,Graduate,Other,Other Sources,1319
+2013/14,Non-Degree,International,Personal and Family,50388
+2013/14,Non-Degree,International,Foreign Government or University,15816
+2013/14,Non-Degree,International,Foreign Private Sponsor,795
+2013/14,Non-Degree,International,International Organization,477
+2013/14,Non-Degree,U.S.,Current Employment,1907
+2013/14,Non-Degree,U.S.,U.S. College or University,8107
+2013/14,Non-Degree,U.S.,U.S. Government,1033
+2013/14,Non-Degree,U.S.,U.S. Private Sponsor,477
+2013/14,Non-Degree,Other,Other Sources,477
+2013/14,OPT,International,Personal and Family,45790
+2013/14,OPT,International,Foreign Government or University,742
+2013/14,OPT,International,Foreign Private Sponsor,1060
+2013/14,OPT,International,International Organization,0
+2013/14,OPT,U.S.,Current Employment,48017
+2013/14,OPT,U.S.,U.S. College or University,9646
+2013/14,OPT,U.S.,U.S. Government,212
+2013/14,OPT,U.S.,U.S. Private Sponsor,212
+2013/14,OPT,Other,Other Sources,318
+2014/15,Undergraduate,International,Personal and Family,318660
+2014/15,Undergraduate,International,Foreign Government or University,36692
+2014/15,Undergraduate,International,Foreign Private Sponsor,3988
+2014/15,Undergraduate,International,International Organization,798
+2014/15,Undergraduate,U.S.,Current Employment,399
+2014/15,Undergraduate,U.S.,U.S. College or University,31507
+2014/15,Undergraduate,U.S.,U.S. Government,798
+2014/15,Undergraduate,U.S.,U.S. Private Sponsor,2393
+2014/15,Undergraduate,Other,Other Sources,3589
+2014/15,Graduate,International,Personal and Family,200674
+2014/15,Graduate,International,Foreign Government or University,18111
+2014/15,Graduate,International,Foreign Private Sponsor,3985
+2014/15,Graduate,International,International Organization,724
+2014/15,Graduate,U.S.,Current Employment,2173
+2014/15,Graduate,U.S.,U.S. College or University,131489
+2014/15,Graduate,U.S.,U.S. Government,2536
+2014/15,Graduate,U.S.,U.S. Private Sponsor,1087
+2014/15,Graduate,Other,Other Sources,1449
+2014/15,Non-Degree,International,Personal and Family,50911
+2014/15,Non-Degree,International,Foreign Government or University,13009
+2014/15,Non-Degree,International,Foreign Private Sponsor,749
+2014/15,Non-Degree,International,International Organization,655
+2014/15,Non-Degree,U.S.,Current Employment,187
+2014/15,Non-Degree,U.S.,U.S. College or University,26204
+2014/15,Non-Degree,U.S.,U.S. Government,1029
+2014/15,Non-Degree,U.S.,U.S. Private Sponsor,562
+2014/15,Non-Degree,Other,Other Sources,281
+2014/15,OPT,International,Personal and Family,52446
+2014/15,OPT,International,Foreign Government or University,842
+2014/15,OPT,International,Foreign Private Sponsor,1083
+2014/15,OPT,International,International Organization,0
+2014/15,OPT,U.S.,Current Employment,53407
+2014/15,OPT,U.S.,U.S. College or University,10585
+2014/15,OPT,U.S.,U.S. Government,0
+2014/15,OPT,U.S.,U.S. Private Sponsor,120
+2014/15,OPT,Other,Other Sources,1804
+2015/16,Undergraduate,International,Personal and Family,346978
+2015/16,Undergraduate,International,Foreign Government or University,38458
+2015/16,Undergraduate,International,Foreign Private Sponsor,3846
+2015/16,Undergraduate,International,International Organization,427
+2015/16,Undergraduate,U.S.,Current Employment,0
+2015/16,Undergraduate,U.S.,U.S. College or University,31621
+2015/16,Undergraduate,U.S.,U.S. Government,855
+2015/16,Undergraduate,U.S.,U.S. Private Sponsor,1709
+2015/16,Undergraduate,Other,Other Sources,3419
+2015/16,Graduate,International,Personal and Family,221145
+2015/16,Graduate,International,Foreign Government or University,19197
+2015/16,Graduate,International,Foreign Private Sponsor,3455
+2015/16,Graduate,International,International Organization,768
+2015/16,Graduate,U.S.,Current Employment,2304
+2015/16,Graduate,U.S.,U.S. College or University,132842
+2015/16,Graduate,U.S.,U.S. Government,1920
+2015/16,Graduate,U.S.,U.S. Private Sponsor,768
+2015/16,Graduate,Other,Other Sources,1536
+2015/16,Non-Degree,International,Personal and Family,52503
+2015/16,Non-Degree,International,Foreign Government or University,17699
+2015/16,Non-Degree,International,Foreign Private Sponsor,1021
+2015/16,Non-Degree,International,International Organization,511
+2015/16,Non-Degree,U.S.,Current Employment,3404
+2015/16,Non-Degree,U.S.,U.S. College or University,7573
+2015/16,Non-Degree,U.S.,U.S. Government,936
+2015/16,Non-Degree,U.S.,U.S. Private Sponsor,425
+2015/16,Non-Degree,Other,Other Sources,1021
+2015/16,OPT,International,Personal and Family,65194
+2015/16,OPT,International,Foreign Government or University,885
+2015/16,OPT,International,Foreign Private Sponsor,885
+2015/16,OPT,International,International Organization,0
+2015/16,OPT,U.S.,Current Employment,69177
+2015/16,OPT,U.S.,U.S. College or University,9440
+2015/16,OPT,U.S.,U.S. Government,0
+2015/16,OPT,U.S.,U.S. Private Sponsor,147
+2015/16,OPT,Other,Other Sources,1770
+2016/17,Undergraduate,International,Personal and Family,359996
+2016/17,Undergraduate,International,Foreign Government or University,34683
+2016/17,Undergraduate,International,Foreign Private Sponsor,3512
+2016/17,Undergraduate,International,International Organization,878
+2016/17,Undergraduate,U.S.,Current Employment,0
+2016/17,Undergraduate,U.S.,U.S. College or University,33804
+2016/17,Undergraduate,U.S.,U.S. Government,1317
+2016/17,Undergraduate,U.S.,U.S. Private Sponsor,1756
+2016/17,Undergraduate,Other,Other Sources,3073
+2016/17,Graduate,International,Personal and Family,239369
+2016/17,Graduate,International,Foreign Government or University,17209
+2016/17,Graduate,International,Foreign Private Sponsor,3520
+2016/17,Graduate,International,International Organization,782
+2016/17,Graduate,U.S.,Current Employment,1564
+2016/17,Graduate,U.S.,U.S. College or University,121640
+2016/17,Graduate,U.S.,U.S. Government,3129
+2016/17,Graduate,U.S.,U.S. Private Sponsor,782
+2016/17,Graduate,Other,Other Sources,3129
+2016/17,Non-Degree,International,Personal and Family,51964
+2016/17,Non-Degree,International,Foreign Government or University,10145
+2016/17,Non-Degree,International,Foreign Private Sponsor,730
+2016/17,Non-Degree,International,International Organization,365
+2016/17,Non-Degree,U.S.,Current Employment,146
+2016/17,Non-Degree,U.S.,U.S. College or University,6933
+2016/17,Non-Degree,U.S.,U.S. Government,1241
+2016/17,Non-Degree,U.S.,U.S. Private Sponsor,511
+2016/17,Non-Degree,Other,Other Sources,949
+2016/17,OPT,International,Personal and Family,0
+2016/17,OPT,International,Foreign Government or University,0
+2016/17,OPT,International,Foreign Private Sponsor,0
+2016/17,OPT,International,International Organization,0
+2016/17,OPT,U.S.,Current Employment,175695
+2016/17,OPT,U.S.,U.S. College or University,0
+2016/17,OPT,U.S.,U.S. Government,0
+2016/17,OPT,U.S.,U.S. Private Sponsor,0
+2016/17,OPT,Other,Other Sources,0
+2017/18,Undergraduate,International,Personal and Family,364824
+2017/18,Undergraduate,International,Foreign Government or University,34091
+2017/18,Undergraduate,International,Foreign Private Sponsor,2656
+2017/18,Undergraduate,International,International Organization,443
+2017/18,Undergraduate,U.S.,Current Employment,0
+2017/18,Undergraduate,U.S.,U.S. College or University,35862
+2017/18,Undergraduate,U.S.,U.S. Government,443
+2017/18,Undergraduate,U.S.,U.S. Private Sponsor,1328
+2017/18,Undergraduate,Other,Other Sources,3099
+2017/18,Graduate,International,Personal and Family,229005
+2017/18,Graduate,International,Foreign Government or University,14552
+2017/18,Graduate,International,Foreign Private Sponsor,3447
+2017/18,Graduate,International,International Organization,766
+2017/18,Graduate,U.S.,Current Employment,1915
+2017/18,Graduate,U.S.,U.S. College or University,129438
+2017/18,Graduate,U.S.,U.S. Government,1532
+2017/18,Graduate,U.S.,U.S. Private Sponsor,766
+2017/18,Graduate,Other,Other Sources,1532
+2017/18,Non-Degree,International,Personal and Family,47582
+2017/18,Non-Degree,International,Foreign Government or University,7810
+2017/18,Non-Degree,International,Foreign Private Sponsor,525
+2017/18,Non-Degree,International,International Organization,131
+2017/18,Non-Degree,U.S.,Current Employment,197
+2017/18,Non-Degree,U.S.,U.S. College or University,7548
+2017/18,Non-Degree,U.S.,U.S. Government,525
+2017/18,Non-Degree,U.S.,U.S. Private Sponsor,525
+2017/18,Non-Degree,Other,Other Sources,788
+2017/18,OPT,International,Personal and Family,0
+2017/18,OPT,International,Foreign Government or University,0
+2017/18,OPT,International,Foreign Private Sponsor,0
+2017/18,OPT,International,International Organization,0
+2017/18,OPT,U.S.,Current Employment,203462
+2017/18,OPT,U.S.,U.S. College or University,0
+2017/18,OPT,U.S.,U.S. Government,0
+2017/18,OPT,U.S.,U.S. Private Sponsor,0
+2017/18,OPT,Other,Other Sources,0
+2018/19,Undergraduate,International,Personal and Family,360660
+2018/19,Undergraduate,International,Foreign Government or University,27212
+2018/19,Undergraduate,International,Foreign Private Sponsor,2592
+2018/19,Undergraduate,International,International Organization,432
+2018/19,Undergraduate,U.S.,Current Employment,0
+2018/19,Undergraduate,U.S.,U.S. College or University,38010
+2018/19,Undergraduate,U.S.,U.S. Government,432
+2018/19,Undergraduate,U.S.,U.S. Private Sponsor,1296
+2018/19,Undergraduate,Other,Other Sources,1296
+2018/19,Graduate,International,Personal and Family,218450
+2018/19,Graduate,International,Foreign Government or University,12472
+2018/19,Graduate,International,Foreign Private Sponsor,3024
+2018/19,Graduate,International,International Organization,756
+2018/19,Graduate,U.S.,Current Employment,1890
+2018/19,Graduate,U.S.,U.S. College or University,137571
+2018/19,Graduate,U.S.,U.S. Government,1134
+2018/19,Graduate,U.S.,U.S. Private Sponsor,756
+2018/19,Graduate,Other,Other Sources,1890
+2018/19,Non-Degree,International,Personal and Family,44761
+2018/19,Non-Degree,International,Foreign Government or University,7045
+2018/19,Non-Degree,International,Foreign Private Sponsor,810
+2018/19,Non-Degree,International,International Organization,62
+2018/19,Non-Degree,U.S.,Current Employment,125
+2018/19,Non-Degree,U.S.,U.S. College or University,7793
+2018/19,Non-Degree,U.S.,U.S. Government,436
+2018/19,Non-Degree,U.S.,U.S. Private Sponsor,748
+2018/19,Non-Degree,Other,Other Sources,561
+2018/19,OPT,International,Personal and Family,0
+2018/19,OPT,International,Foreign Government or University,0
+2018/19,OPT,International,Foreign Private Sponsor,0
+2018/19,OPT,International,International Organization,0
+2018/19,OPT,U.S.,Current Employment,223085
+2018/19,OPT,U.S.,U.S. College or University,0
+2018/19,OPT,U.S.,U.S. Government,0
+2018/19,OPT,U.S.,U.S. Private Sponsor,0
+2018/19,OPT,Other,Other Sources,0
+2019/20,Undergraduate,International,Personal and Family,351811
+2019/20,Undergraduate,International,Foreign Government or University,20966
+2019/20,Undergraduate,International,Foreign Private Sponsor,1677
+2019/20,Undergraduate,International,International Organization,0
+2019/20,Undergraduate,U.S.,Current Employment,419
+2019/20,Undergraduate,U.S.,U.S. College or University,38158
+2019/20,Undergraduate,U.S.,U.S. Government,419
+2019/20,Undergraduate,U.S.,U.S. Private Sponsor,1258
+2019/20,Undergraduate,Other,Other Sources,4613
+2019/20,Graduate,International,Personal and Family,213803
+2019/20,Graduate,International,Foreign Government or University,10110
+2019/20,Graduate,International,Foreign Private Sponsor,2621
+2019/20,Graduate,International,International Organization,374
+2019/20,Graduate,U.S.,Current Employment,2995
+2019/20,Graduate,U.S.,U.S. College or University,136669
+2019/20,Graduate,U.S.,U.S. Government,1123
+2019/20,Graduate,U.S.,U.S. Private Sponsor,749
+2019/20,Graduate,Other,Other Sources,5991
+2019/20,Non-Degree,International,Personal and Family,38820
+2019/20,Non-Degree,International,Foreign Government or University,7159
+2019/20,Non-Degree,International,Foreign Private Sponsor,2095
+2019/20,Non-Degree,International,International Organization,291
+2019/20,Non-Degree,U.S.,Current Employment,175
+2019/20,Non-Degree,U.S.,U.S. College or University,7624
+2019/20,Non-Degree,U.S.,U.S. Government,466
+2019/20,Non-Degree,U.S.,U.S. Private Sponsor,640
+2019/20,Non-Degree,Other,Other Sources,931
+2019/20,OPT,International,Personal and Family,0
+2019/20,OPT,International,Foreign Government or University,0
+2019/20,OPT,International,Foreign Private Sponsor,0
+2019/20,OPT,International,International Organization,0
+2019/20,OPT,U.S.,Current Employment,223539
+2019/20,OPT,U.S.,U.S. College or University,0
+2019/20,OPT,U.S.,U.S. Government,0
+2019/20,OPT,U.S.,U.S. Private Sponsor,0
+2019/20,OPT,Other,Other Sources,0
+2020/21,Undergraduate,International,Personal and Family,299703
+2020/21,Undergraduate,International,Foreign Government or University,14391
+2020/21,Undergraduate,International,Foreign Private Sponsor,1799
+2020/21,Undergraduate,International,International Organization,360
+2020/21,Undergraduate,U.S.,Current Employment,360
+2020/21,Undergraduate,U.S.,U.S. College or University,35259
+2020/21,Undergraduate,U.S.,U.S. Government,360
+2020/21,Undergraduate,U.S.,U.S. Private Sponsor,1439
+2020/21,Undergraduate,Other,Other Sources,6116
+2020/21,Graduate,International,Personal and Family,174843
+2020/21,Graduate,International,Foreign Government or University,7903
+2020/21,Graduate,International,Foreign Private Sponsor,2305
+2020/21,Graduate,International,International Organization,329
+2020/21,Graduate,U.S.,Current Employment,3293
+2020/21,Graduate,U.S.,U.S. College or University,132367
+2020/21,Graduate,U.S.,U.S. Government,659
+2020/21,Graduate,U.S.,U.S. Private Sponsor,329
+2020/21,Graduate,Other,Other Sources,7244
+2020/21,Non-Degree,International,Personal and Family,19755
+2020/21,Non-Degree,International,Foreign Government or University,613
+2020/21,Non-Degree,International,Foreign Private Sponsor,169
+2020/21,Non-Degree,International,International Organization,0
+2020/21,Non-Degree,U.S.,Current Employment,21
+2020/21,Non-Degree,U.S.,U.S. College or University,381
+2020/21,Non-Degree,U.S.,U.S. Government,21
+2020/21,Non-Degree,U.S.,U.S. Private Sponsor,85
+2020/21,Non-Degree,Other,Other Sources,106
+2020/21,OPT,International,Personal and Family,0
+2020/21,OPT,International,Foreign Government or University,0
+2020/21,OPT,International,Foreign Private Sponsor,0
+2020/21,OPT,International,International Organization,0
+2020/21,OPT,U.S.,Current Employment,203885
+2020/21,OPT,U.S.,U.S. College or University,0
+2020/21,OPT,U.S.,U.S. Government,0
+2020/21,OPT,U.S.,U.S. Private Sponsor,0
+2020/21,OPT,Other,Other Sources,0
+2021/22,Undergraduate,International,Personal and Family,285961
+2021/22,Undergraduate,International,Foreign Government or University,11025
+2021/22,Undergraduate,International,Foreign Private Sponsor,2067
+2021/22,Undergraduate,International,International Organization,345
+2021/22,Undergraduate,U.S.,Current Employment,0
+2021/22,Undergraduate,U.S.,U.S. College or University,38588
+2021/22,Undergraduate,U.S.,U.S. Government,689
+2021/22,Undergraduate,U.S.,U.S. Private Sponsor,1378
+2021/22,Undergraduate,Other,Other Sources,4479
+2021/22,Graduate,International,Personal and Family,216810
+2021/22,Graduate,International,Foreign Government or University,8087
+2021/22,Graduate,International,Foreign Private Sponsor,2311
+2021/22,Graduate,International,International Organization,385
+2021/22,Graduate,U.S.,Current Employment,1925
+2021/22,Graduate,U.S.,U.S. College or University,148262
+2021/22,Graduate,U.S.,U.S. Government,770
+2021/22,Graduate,U.S.,U.S. Private Sponsor,385
+2021/22,Graduate,Other,Other Sources,6162
+2021/22,Non-Degree,International,Personal and Family,23312
+2021/22,Non-Degree,International,Foreign Government or University,3925
+2021/22,Non-Degree,International,Foreign Private Sponsor,239
+2021/22,Non-Degree,International,International Organization,34
+2021/22,Non-Degree,U.S.,Current Employment,956
+2021/22,Non-Degree,U.S.,U.S. College or University,4505
+2021/22,Non-Degree,U.S.,U.S. Government,512
+2021/22,Non-Degree,U.S.,U.S. Private Sponsor,102
+2021/22,Non-Degree,Other,Other Sources,546
+2021/22,OPT,International,Personal and Family,0
+2021/22,OPT,International,Foreign Government or University,0
+2021/22,OPT,International,Foreign Private Sponsor,0
+2021/22,OPT,International,International Organization,0
+2021/22,OPT,U.S.,Current Employment,184759
+2021/22,OPT,U.S.,U.S. College or University,0
+2021/22,OPT,U.S.,U.S. Government,0
+2021/22,OPT,U.S.,U.S. Private Sponsor,0
+2021/22,OPT,Other,Other Sources,0
+2022/23,Undergraduate,International,Personal and Family,287467
+2022/23,Undergraduate,International,Foreign Government or University,10776
+2022/23,Undergraduate,International,Foreign Private Sponsor,4866
+2022/23,Undergraduate,International,International Organization,0
+2022/23,Undergraduate,U.S.,Current Employment,0
+2022/23,Undergraduate,U.S.,U.S. College or University,37541
+2022/23,Undergraduate,U.S.,U.S. Government,348
+2022/23,Undergraduate,U.S.,U.S. Private Sponsor,1738
+2022/23,Undergraduate,Other,Other Sources,4866
+2022/23,Graduate,International,Personal and Family,283487
+2022/23,Graduate,International,Foreign Government or University,7472
+2022/23,Graduate,International,Foreign Private Sponsor,2335
+2022/23,Graduate,International,International Organization,467
+2022/23,Graduate,U.S.,Current Employment,2335
+2022/23,Graduate,U.S.,U.S. College or University,163459
+2022/23,Graduate,U.S.,U.S. Government,934
+2022/23,Graduate,U.S.,U.S. Private Sponsor,467
+2022/23,Graduate,Other,Other Sources,6071
+2022/23,Non-Degree,International,Personal and Family,30504
+2022/23,Non-Degree,International,Foreign Government or University,4858
+2022/23,Non-Degree,International,Foreign Private Sponsor,219
+2022/23,Non-Degree,International,International Organization,44
+2022/23,Non-Degree,U.S.,Current Employment,131
+2022/23,Non-Degree,U.S.,U.S. College or University,6609
+2022/23,Non-Degree,U.S.,U.S. Government,394
+2022/23,Non-Degree,U.S.,U.S. Private Sponsor,175
+2022/23,Non-Degree,Other,Other Sources,832
+2022/23,OPT,International,Personal and Family,0
+2022/23,OPT,International,Foreign Government or University,0
+2022/23,OPT,International,Foreign Private Sponsor,0
+2022/23,OPT,International,International Organization,0
+2022/23,OPT,U.S.,Current Employment,198793
+2022/23,OPT,U.S.,U.S. College or University,0
+2022/23,OPT,U.S.,U.S. Government,0
+2022/23,OPT,U.S.,U.S. Private Sponsor,0
+2022/23,OPT,Other,Other Sources,0
