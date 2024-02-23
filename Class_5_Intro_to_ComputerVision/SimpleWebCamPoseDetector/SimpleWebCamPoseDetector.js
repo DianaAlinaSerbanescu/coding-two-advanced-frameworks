@@ -29,11 +29,11 @@ function draw() {
     image(video, 0, 0);
 
     if(pose){
-        fill(255, 0, 0);
-        ellipse(pose.nose.x, pose.nose.y, 64);
         fill(0, 0, 255);
-        ellipse(pose.rightWrist.x, pose.rightWrist.y, 64);
-        ellipse(pose.leftWrist.x, pose.leftWrist.y, 64);
+        ellipse(pose.nose.x, pose.nose.y, 24);
+        fill(0, 0, 255);
+        ellipse(pose.rightWrist.x, pose.rightWrist.y, 24);
+        ellipse(pose.leftWrist.x, pose.leftWrist.y, 24);
 
         for(let i = 0; i < pose.keypoints.length; i++) {
             let x = pose.keypoints[i].position.x;
